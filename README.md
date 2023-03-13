@@ -22,9 +22,8 @@ This project aims to connect with redis for sake of implementing caching in API.
 `npm test`
 ```
 
-Redis:
-
+- Redis:
 1. https://docs.redis.com/latest/rs/references/client_references/client_nodejs/
 2. https://www.youtube.com/watch?v=YEWSxyOPyRc&t=148s
-   Testing in Node:
-3. https://medium.com/@iamfaisalkhatri/api-testing-using-supertest-ea37522fa329
+- Testing in Node:
+1. https://medium.com/@iamfaisalkhatri/api-testing-using-supertest-ea37522fa329
