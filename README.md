@@ -2,7 +2,7 @@
 
 This project aims to connect with redis for sake of implementing caching in API. It also uses supertest + jest for testing the API and controllers.
 
-## How to connect to redis and how to start it can be understood from doc.md file.
+### How to connect to redis and how to start it can be understood from doc.md file.
 
 ## Installation
 
